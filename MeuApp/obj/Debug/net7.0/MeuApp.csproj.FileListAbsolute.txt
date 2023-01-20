@@ -1,0 +1,15 @@
+/Users/phmalavazi/Documents/repos/dotnet/Balta/MeuApp/bin/Debug/net7.0/MeuApp
+/Users/phmalavazi/Documents/repos/dotnet/Balta/MeuApp/bin/Debug/net7.0/MeuApp.deps.json
+/Users/phmalavazi/Documents/repos/dotnet/Balta/MeuApp/bin/Debug/net7.0/MeuApp.runtimeconfig.json
+/Users/phmalavazi/Documents/repos/dotnet/Balta/MeuApp/bin/Debug/net7.0/MeuApp.dll
+/Users/phmalavazi/Documents/repos/dotnet/Balta/MeuApp/bin/Debug/net7.0/MeuApp.pdb
+/Users/phmalavazi/Documents/repos/dotnet/Balta/MeuApp/obj/Debug/net7.0/MeuApp.csproj.AssemblyReference.cache
+/Users/phmalavazi/Documents/repos/dotnet/Balta/MeuApp/obj/Debug/net7.0/MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phmalavazi/Documents/repos/dotnet/Balta/MeuApp/obj/Debug/net7.0/MeuApp.AssemblyInfoInputs.cache
+/Users/phmalavazi/Documents/repos/dotnet/Balta/MeuApp/obj/Debug/net7.0/MeuApp.AssemblyInfo.cs
+/Users/phmalavazi/Documents/repos/dotnet/Balta/MeuApp/obj/Debug/net7.0/MeuApp.csproj.CoreCompileInputs.cache
+/Users/phmalavazi/Documents/repos/dotnet/Balta/MeuApp/obj/Debug/net7.0/MeuApp.dll
+/Users/phmalavazi/Documents/repos/dotnet/Balta/MeuApp/obj/Debug/net7.0/refint/MeuApp.dll
+/Users/phmalavazi/Documents/repos/dotnet/Balta/MeuApp/obj/Debug/net7.0/MeuApp.pdb
+/Users/phmalavazi/Documents/repos/dotnet/Balta/MeuApp/obj/Debug/net7.0/MeuApp.genruntimeconfig.cache
+/Users/phmalavazi/Documents/repos/dotnet/Balta/MeuApp/obj/Debug/net7.0/ref/MeuApp.dll

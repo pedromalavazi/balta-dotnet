@@ -1,0 +1,15 @@
+/Users/phmalavazi/Documents/repos/dotnet/Balta/calculator/bin/Debug/net7.0/calculator
+/Users/phmalavazi/Documents/repos/dotnet/Balta/calculator/bin/Debug/net7.0/calculator.deps.json
+/Users/phmalavazi/Documents/repos/dotnet/Balta/calculator/bin/Debug/net7.0/calculator.runtimeconfig.json
+/Users/phmalavazi/Documents/repos/dotnet/Balta/calculator/bin/Debug/net7.0/calculator.dll
+/Users/phmalavazi/Documents/repos/dotnet/Balta/calculator/bin/Debug/net7.0/calculator.pdb
+/Users/phmalavazi/Documents/repos/dotnet/Balta/calculator/obj/Debug/net7.0/calculator.csproj.AssemblyReference.cache
+/Users/phmalavazi/Documents/repos/dotnet/Balta/calculator/obj/Debug/net7.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phmalavazi/Documents/repos/dotnet/Balta/calculator/obj/Debug/net7.0/calculator.AssemblyInfoInputs.cache
+/Users/phmalavazi/Documents/repos/dotnet/Balta/calculator/obj/Debug/net7.0/calculator.AssemblyInfo.cs
+/Users/phmalavazi/Documents/repos/dotnet/Balta/calculator/obj/Debug/net7.0/calculator.csproj.CoreCompileInputs.cache
+/Users/phmalavazi/Documents/repos/dotnet/Balta/calculator/obj/Debug/net7.0/calculator.dll
+/Users/phmalavazi/Documents/repos/dotnet/Balta/calculator/obj/Debug/net7.0/refint/calculator.dll
+/Users/phmalavazi/Documents/repos/dotnet/Balta/calculator/obj/Debug/net7.0/calculator.pdb
+/Users/phmalavazi/Documents/repos/dotnet/Balta/calculator/obj/Debug/net7.0/calculator.genruntimeconfig.cache
+/Users/phmalavazi/Documents/repos/dotnet/Balta/calculator/obj/Debug/net7.0/ref/calculator.dll

@@ -1,0 +1,15 @@
+/Users/phmalavazi/Documents/repos/dotnet/Balta/Stopwatch/bin/Debug/net7.0/Stopwatch
+/Users/phmalavazi/Documents/repos/dotnet/Balta/Stopwatch/bin/Debug/net7.0/Stopwatch.deps.json
+/Users/phmalavazi/Documents/repos/dotnet/Balta/Stopwatch/bin/Debug/net7.0/Stopwatch.runtimeconfig.json
+/Users/phmalavazi/Documents/repos/dotnet/Balta/Stopwatch/bin/Debug/net7.0/Stopwatch.dll
+/Users/phmalavazi/Documents/repos/dotnet/Balta/Stopwatch/bin/Debug/net7.0/Stopwatch.pdb
+/Users/phmalavazi/Documents/repos/dotnet/Balta/Stopwatch/obj/Debug/net7.0/Stopwatch.csproj.AssemblyReference.cache
+/Users/phmalavazi/Documents/repos/dotnet/Balta/Stopwatch/obj/Debug/net7.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phmalavazi/Documents/repos/dotnet/Balta/Stopwatch/obj/Debug/net7.0/Stopwatch.AssemblyInfoInputs.cache
+/Users/phmalavazi/Documents/repos/dotnet/Balta/Stopwatch/obj/Debug/net7.0/Stopwatch.AssemblyInfo.cs
+/Users/phmalavazi/Documents/repos/dotnet/Balta/Stopwatch/obj/Debug/net7.0/Stopwatch.csproj.CoreCompileInputs.cache
+/Users/phmalavazi/Documents/repos/dotnet/Balta/Stopwatch/obj/Debug/net7.0/Stopwatch.dll
+/Users/phmalavazi/Documents/repos/dotnet/Balta/Stopwatch/obj/Debug/net7.0/refint/Stopwatch.dll
+/Users/phmalavazi/Documents/repos/dotnet/Balta/Stopwatch/obj/Debug/net7.0/Stopwatch.pdb
+/Users/phmalavazi/Documents/repos/dotnet/Balta/Stopwatch/obj/Debug/net7.0/Stopwatch.genruntimeconfig.cache
+/Users/phmalavazi/Documents/repos/dotnet/Balta/Stopwatch/obj/Debug/net7.0/ref/Stopwatch.dll
