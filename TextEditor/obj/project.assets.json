@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/phmalavazi/Documents/repos/dotnet/Balta/TextEditor/TextEditor.csproj",
+      "projectUniqueName": "/Users/phmalavazi/Documents/repos/balta-dotnet/TextEditor/TextEditor.csproj",
       "projectName": "TextEditor",
-      "projectPath": "/Users/phmalavazi/Documents/repos/dotnet/Balta/TextEditor/TextEditor.csproj",
+      "projectPath": "/Users/phmalavazi/Documents/repos/balta-dotnet/TextEditor/TextEditor.csproj",
       "packagesPath": "/Users/phmalavazi/.nuget/packages/",
-      "outputPath": "/Users/phmalavazi/Documents/repos/dotnet/Balta/TextEditor/obj/",
+      "outputPath": "/Users/phmalavazi/Documents/repos/balta-dotnet/TextEditor/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/phmalavazi/.nuget/NuGet/NuGet.Config"

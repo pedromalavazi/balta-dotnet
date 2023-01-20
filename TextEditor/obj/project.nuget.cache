@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "is0HyniNiQCZcSblAN42uLKKiiPp3S+ZF7t/WdUnRdQf0rrOP+NeaAoFP3nUSAlij3ypdezJS2YwvgFAnXygKQ==",
+  "dgSpecHash": "Li7nu6K4xw2gNU15BbHSdbdWWUpxxca7miTriLDyKl9cL/cncy06eZa5yzbnvjHzNcumGXm7j3/qvK++8hKE6w==",
   "success": true,
-  "projectFilePath": "/Users/phmalavazi/Documents/repos/dotnet/Balta/TextEditor/TextEditor.csproj",
+  "projectFilePath": "/Users/phmalavazi/Documents/repos/balta-dotnet/TextEditor/TextEditor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

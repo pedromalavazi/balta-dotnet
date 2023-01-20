@@ -40,21 +40,37 @@ class Program
             text += Environment.NewLine;
         }
         while (Console.ReadKey().Key != ConsoleKey.Escape);
+
+        SaveFile(text);
     }
 
     private static void OpenFile()
     {
-        throw new NotImplementedException();
+        Console.WriteLine("Qual o caminho do arquivo que deseja abrir? ");
+        var path = Console.ReadLine().TrimEnd() + ".txt";
+
+        using (var file = new StreamReader(path))
+        {
+            Console.Write(file.ReadToEnd());
+        }
+
+        Console.ReadKey();
+        Menu();
     }
 
     private static void SaveFile(string text)
     {
         Console.WriteLine("Qual o caminho para salvar o arquivo? ");
-        var path = Console.ReadLine();
+        var path = Console.ReadLine().TrimEnd() + ".txt";
 
         using (var file = new StreamWriter(path))
         {
             file.Write(text);
         }
+
+        Console.WriteLine("Arquivo salvo com sucesso!");
+        Console.ReadLine();
+
+        Menu();
     }
 }
