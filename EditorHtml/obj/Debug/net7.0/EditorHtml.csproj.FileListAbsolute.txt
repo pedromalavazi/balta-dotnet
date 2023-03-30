@@ -1,0 +1,15 @@
+/Users/phmalavazi/Documents/repos/balta-dotnet/EditorHtml/bin/Debug/net7.0/EditorHtml
+/Users/phmalavazi/Documents/repos/balta-dotnet/EditorHtml/bin/Debug/net7.0/EditorHtml.deps.json
+/Users/phmalavazi/Documents/repos/balta-dotnet/EditorHtml/bin/Debug/net7.0/EditorHtml.runtimeconfig.json
+/Users/phmalavazi/Documents/repos/balta-dotnet/EditorHtml/bin/Debug/net7.0/EditorHtml.dll
+/Users/phmalavazi/Documents/repos/balta-dotnet/EditorHtml/bin/Debug/net7.0/EditorHtml.pdb
+/Users/phmalavazi/Documents/repos/balta-dotnet/EditorHtml/obj/Debug/net7.0/EditorHtml.csproj.AssemblyReference.cache
+/Users/phmalavazi/Documents/repos/balta-dotnet/EditorHtml/obj/Debug/net7.0/EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phmalavazi/Documents/repos/balta-dotnet/EditorHtml/obj/Debug/net7.0/EditorHtml.AssemblyInfoInputs.cache
+/Users/phmalavazi/Documents/repos/balta-dotnet/EditorHtml/obj/Debug/net7.0/EditorHtml.AssemblyInfo.cs
+/Users/phmalavazi/Documents/repos/balta-dotnet/EditorHtml/obj/Debug/net7.0/EditorHtml.csproj.CoreCompileInputs.cache
+/Users/phmalavazi/Documents/repos/balta-dotnet/EditorHtml/obj/Debug/net7.0/EditorHtml.dll
+/Users/phmalavazi/Documents/repos/balta-dotnet/EditorHtml/obj/Debug/net7.0/refint/EditorHtml.dll
+/Users/phmalavazi/Documents/repos/balta-dotnet/EditorHtml/obj/Debug/net7.0/EditorHtml.pdb
+/Users/phmalavazi/Documents/repos/balta-dotnet/EditorHtml/obj/Debug/net7.0/EditorHtml.genruntimeconfig.cache
+/Users/phmalavazi/Documents/repos/balta-dotnet/EditorHtml/obj/Debug/net7.0/ref/EditorHtml.dll
